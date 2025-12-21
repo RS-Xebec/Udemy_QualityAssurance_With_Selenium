@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-driver = Chrome()     #Object Created
+driver = Chrome()     #Object Created driver is object name and Chrome() is class
 driver.get("https://uatdemo.enlightbook.com/")
 
 #Maximize Browser
