@@ -1,0 +1,5 @@
+***********Naming Conventions in Pytest*********
+-Test case file name should start with test_
+-Test case method name should start with test_
+-Change file name or test name
+-Execute testcases using pytest
